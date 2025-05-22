@@ -1,8 +1,6 @@
 ---
 layout: home
 title: "Take Me to Eat!"
-excerpt: "Easy recipes, student-friendly cooking, and honest food & coffee reviews."
-author_profile: true
 ---
 
 Welcome to **Take Me to Eat!** 🍴
