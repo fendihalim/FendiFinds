@@ -15,7 +15,7 @@ I started this blog to help people enjoy great food without stress or spending t
 I share recipes that are not only delicious but also easy to clean up and gentle on your wallet.
 
 Oftentimes, I like to explore unique foods. What I don’t like is overpriced food that isn’t delicious.
-I write my restaurant reviews based on the standard that most people love (not just my personal taste)—which is McDonald’s. Although I usually prefer other fast food over McDonald’s, you’ll understand what I mean when I say, “I’d rather eat McDonald’s.
+I write my restaurant reviews based on the standard that most people love (not just my personal taste)—which is McDonald’s. Although I usually prefer other fast food over McDonald’s, you’ll understand what I mean when I say, “I’d rather eat McDonald’s."
 
 ---
 
