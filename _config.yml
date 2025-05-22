@@ -1,0 +1,23 @@
+# _config.yml
+
+title: "Fendi, Take Me to Eat!"
+description: "Easy recipes, coffee reviews, and budget bites."
+baseurl: "https://fendihalim.github.io"
+url: "/takemetoeat" # Your custom domain or GitHub Pages URL
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+# Recommended extras for MM
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Optional: your social links
+author:
+  name: Fendi Tjoa
+  location: Toronto, Ontario, Canada
+  email: fenditakemetoeat@gmail.com
+description: "Great site about food related reviews and less-mess food recipes"
