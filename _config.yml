@@ -15,6 +15,12 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+nav:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about/
+
 # Optional: your social links
 author:
   name: Fendi Tjoa
