@@ -12,7 +12,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-navigation:
+nav:
   - title: Home
     url: /takemetoeat/
   - title: About Me
