@@ -14,11 +14,12 @@ kramdown:
 
 nav:
   - title: Home
-    url: /takemetoeat/
+    url: "/takemetoeat/"
   - title: About Me
-    url: /takemetoeat/about/
+    url: "/takemetoeat/about/"
 
 author:
   name: Fendi Tjoa
   location: Toronto, Ontario, Canada
   email: fenditakemetoeat@gmail.com
+description: "Great site about food related reviews and less-mess food recipes"
