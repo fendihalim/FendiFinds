@@ -2,8 +2,8 @@
 
 title: "Fendi, Take Me to Eat!"
 description: "Easy recipes, coffee reviews, and budget bites."
-baseurl: "https://fendihalim.github.io"
-url: "/takemetoeat" # Your custom domain or GitHub Pages URL
+url: "https://fendihalim.github.io"
+baseurl: "/takemetoeat"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
