@@ -17,9 +17,9 @@ kramdown:
 
 navigation:
   - title: Home
-    url: /
+    url: /takemetoeat/
   - title: About Me
-    url: /about/
+    url: /takemetoeat/about/
 
 header_pages:
   - index.md
