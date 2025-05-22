@@ -15,11 +15,15 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-nav:
+navigation:
   - title: Home
     url: /
   - title: About Me
     url: /about/
+
+header_pages:
+  - index.md
+  - about.md
 
 # Optional: your social links
 author:
