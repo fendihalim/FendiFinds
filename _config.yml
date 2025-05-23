@@ -15,6 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
 title: Fendi, Take Me to Eat!
+title_separator: "-"
+name: "Fendi Tjoa"
+url: "https://fendihalim.github.io/" # not sure if needed to be writte. initially a blank
+baseurl: "/takemetoeat" # not sure if needed to be written. initially a blank
 email: fenditakemetoeat@gmail.com
 description: "Easy recipes, honest coffee reviews, and budget-friendly cooking tips for home cooks and college students."
 twitter_username: fendihalim
