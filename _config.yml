@@ -58,6 +58,8 @@ author:
   name   : "Fendi Tjoa "
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A passionate home cook and food lover sharing easy recipes, honest reviews, and kitchen tips for everyday eaters"
+  location: "Toronto, Ontario, CANADA"
+  email: fenditakemetoeat@gmail.com
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
