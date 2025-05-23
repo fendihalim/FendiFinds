@@ -26,3 +26,5 @@ I write my restaurant reviews based on the standard that most people love (not j
 Thanks for stopping by! Feel free to reach out anytime.
 
 ---
+
+*Note: I don’t use any social media. Please reach out to me by email only.*
