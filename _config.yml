@@ -59,7 +59,9 @@ plugins:
 
 author:
   name   : "Fendi Tjoa "
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar: "https://github.com/fendihalim/takemetoeat/blob/main/assets/images/bio-photo.jpg"
+  #avatar : "/assets/images/bio-photo.jpg"
+  
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
