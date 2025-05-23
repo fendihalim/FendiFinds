@@ -1,8 +1,15 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! I’m Fendi, the creator of **Take Me to Eat!** 🍴
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip. a
+I’m passionate about sharing easy, budget-friendly recipes, honest coffee reviews, and thoughtful restaurant reviews— all perfect for home cooks and college students alike.
+I also love food-related equipment and will review and recommend them. My baseline for these cooking tools is that they should outlast you and me and be passed down to the next generation.
+
+I started this blog to help people enjoy great food without stress or spending too much time in the kitchen. Many recipes online claim to be easy, but they don’t consider the mess afterward.
+I share recipes that are not only delicious but also easy to clean up and gentle on your wallet.
+
+Oftentimes, I like to explore unique foods. What I don’t like is overpriced food that isn’t delicious.
+I write my restaurant reviews based on the standard that most people love (not just my personal taste)—which is McDonald’s. Although I usually prefer other fast food over McDonald’s, you’ll understand what I mean when I say, “I’d rather eat McDonald’s."
