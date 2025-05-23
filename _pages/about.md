@@ -13,3 +13,16 @@ I share recipes that are not only delicious but also easy to clean up and gentle
 
 Oftentimes, I like to explore unique foods. What I don’t like is overpriced food that isn’t delicious.
 I write my restaurant reviews based on the standard that most people love (not just my personal taste)—which is McDonald’s. Although I usually prefer other fast food over McDonald’s, you’ll understand what I mean when I say, “I’d rather eat McDonald’s."
+
+---
+
+### What You'll Find Here
+
+- Simple recipes anyone can follow  
+- Reviews of local restaurants and coffee spots  
+- Tips for cooking on a budget  
+- Kitchen equipment recommendations
+
+Thanks for stopping by! Feel free to reach out anytime.
+
+---
