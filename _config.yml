@@ -16,8 +16,8 @@
 title: Fendi, Take Me to Eat!
 email: fenditakemetoeat@gmail.com
 description: "Easy recipes, honest coffee reviews, and budget-friendly cooking tips for home cooks and college students."
-twitter_username: username
-github_username: username
+twitter_username: fendihalim
+github_username: fendihalim
 minimal_mistakes_skin: "dirt"
 search: true
 
@@ -56,14 +56,15 @@ plugins:
 
 author:
   name   : "Fendi Tjoa "
-  # avatar: "https://fendihalim.github.io/takemetoeat/assets/images/bio-photo.jpg"
   avatar : "/assets/images/bio-photo.jpg"
-  
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A passionate home cook and food lover sharing easy recipes, honest reviews, and kitchen tips for everyday eaters"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
+    - label: "Reddit"
+      icon: "fas fa-fw fa-square-reddit" 
+      url: "https://reddit.com"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
