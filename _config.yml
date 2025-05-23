@@ -20,6 +20,7 @@ masthead_title: "Take Me To Eat!" # This will override the website header (it's 
 name: "Fendi Tjoa"
 url: "https://fendihalim.github.io/" # not sure if needed to be writte. initially a blank
 baseurl: "/takemetoeat" # not sure if needed to be written. initially a blank
+words_per_minute: 200 # the speed set to read the article. this is connected to read_time under default below
 email: fenditakemetoeat@gmail.com
 description: "Easy recipes, honest coffee reviews, and budget-friendly cooking tips for home cooks and college students."
 twitter_username: fendihalim
