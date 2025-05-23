@@ -61,7 +61,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://fendihalim.github.io/takemetoeat/"
     - label: "Reddit"
       icon: "fab fa-fw fa-square-reddit" 
       url: "https://www.reddit.com/user/takemetoeat/"
@@ -77,15 +77,18 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    - label: "Reddit"
+      icon: "fab fa-fw fa-square-reddit" 
+      url: "https://www.reddit.com/user/takemetoeat/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/fendihalim/takemetoeat"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 defaults:
   # _posts
