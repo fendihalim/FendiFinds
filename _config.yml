@@ -16,6 +16,7 @@
 locale: "en-US"
 title: Fendi, Take Me to Eat!
 title_separator: "-"
+masthead_title: "EAT UP BOY"
 name: "Fendi Tjoa"
 url: "https://fendihalim.github.io/" # not sure if needed to be writte. initially a blank
 baseurl: "/takemetoeat" # not sure if needed to be written. initially a blank
