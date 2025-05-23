@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en-US"
 title: Fendi, Take Me to Eat!
 email: fenditakemetoeat@gmail.com
 description: "Easy recipes, honest coffee reviews, and budget-friendly cooking tips for home cooks and college students."
