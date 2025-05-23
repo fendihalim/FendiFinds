@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Fendi Tjoa "
-  avatar: "https://github.com/fendihalim/takemetoeat/blob/main/assets/images/bio-photo.jpg"
+  avatar: "https://fendihalim.github.io/takemetoeat/assets/images/bio-photo.jpg"
   #avatar : "/assets/images/bio-photo.jpg"
   
   bio    : "My awesome biography constrained to a sentence or two goes here."
