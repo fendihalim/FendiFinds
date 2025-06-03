@@ -120,9 +120,16 @@ defaults:
       layout: single
       author_profile: true
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "takemetoeat"
+
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+
+
