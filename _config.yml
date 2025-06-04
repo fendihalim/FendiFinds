@@ -130,7 +130,11 @@ atom_feed:
 lunr:
   search_within_pages: true
 google_site_verification: "RTGRSh1HCRm0YlRRyeJiagDUW5wtJ8df6KKZpO4g0G8"
-
+analytics:
+  provider: "google-gtag"
+  google: 
+    tracking_id: "G-JCHGEECWWT"
+    anonymize_ip: false
 
   
 category_archive:
