@@ -127,7 +127,8 @@ comments:
 
 atom_feed:
   hide: true
-
+lunr:
+  search_within_pages: true
 category_archive:
   type: liquid
   path: /categories/
