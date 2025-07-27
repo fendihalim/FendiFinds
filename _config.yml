@@ -116,7 +116,7 @@ defaults:
   # _journals
     - scope:
       path: "_journals"
-      type: posts
+      type: journals
     values:
       layout: single
       author_profile: true
