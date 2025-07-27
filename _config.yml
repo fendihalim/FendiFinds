@@ -137,7 +137,14 @@ analytics:
     tracking_id: "G-JCHGEECWWT"
     anonymize_ip: false
 
-  
+
+# adding journals
+collections:
+  journals:
+    output: true
+    permalink: /journals/:title/
+
+
 category_archive:
   type: liquid
   path: /categories/
