@@ -85,7 +85,8 @@ author:
     #   url: "https://instagram.com/"
 
 footer:
-  links:
+  since: "2025"
+  # links:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
