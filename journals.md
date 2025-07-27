@@ -1,7 +1,7 @@
 ---
 title: "Journals"
-layout: collection
+layout: home
 collection: journals
 permalink: /journals/
-entries_layout: grid
+paginate: 5
 ---
