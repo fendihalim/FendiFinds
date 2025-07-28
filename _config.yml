@@ -137,6 +137,11 @@ analytics:
     tracking_id: "G-JCHGEECWWT"
     anonymize_ip: false
 
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:title/
+
 category_archive:
   type: liquid
   path: /categories/
