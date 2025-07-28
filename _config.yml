@@ -141,6 +141,9 @@ collections:
   recipes:
     output: true
     permalink: /recipes/:title/
+  journals:
+    output: true
+    permalink: /journals/:year/:month/:day/:title/
 
 category_archive:
   type: liquid
