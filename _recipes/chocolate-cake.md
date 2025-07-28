@@ -1,6 +1,6 @@
 ---
 title: "Chocolate Cake"
-layout: archive
+layout: single
 collection: recipes
 author_profile: true
 ---
