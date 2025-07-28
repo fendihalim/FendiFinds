@@ -9,3 +9,5 @@ main:
     url: /about/
   - title: "Journals"
     url: /journals/
+  - title: "Recipes"
+    url: /recipes/
