@@ -1,6 +1,6 @@
 ---
 title: "Chocolate Cake"
-layout: single
+layout: collection
 collection: recipes
 ---
 This is my first recipe. Yum!
