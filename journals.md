@@ -2,6 +2,7 @@
 title: "Journals"
 layout: archive
 permalink: /journals/
+author_profile: true
 ---
 {% for journal in site.journals %}
   <h2><a href="{{ site.baseurl }}{{ journal.url }}">{{ journal.title }}</a></h2>
