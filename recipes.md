@@ -1,7 +1,6 @@
 ---
 title: "Recipes"
 layout: archive
-collection: recipes
 permalink: /recipes/
 author_profile: true
 ---
