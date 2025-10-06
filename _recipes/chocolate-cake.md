@@ -3,41 +3,42 @@ title: "Chocolate Cake"
 layout: single
 author_profile: true
 date: 2025-10-06
-image:
-  path: "/assets/images/pexels-wolpido-1472999.jpg"
-  alt: "A delicious slice of chocolate cake"
-  caption: "Moist and rich chocolate cake"
-comments: true
-share: true
-read_time: true
-show_date: true
+categories: recipes
+tags: [dessert, chocolate, baking]
 ---
 
 This is my first recipe. Yum!
 
-Here’s how I made it:
-
-{% figure
-   src="/assets/images/pexels-wolpido-1472999.jpg"
-   alt="Mixing ingredients in a bowl"
-   caption="Mixing the flour, sugar, and cocoa powder"
-   class="center" %}
+<figure class="half">
+  <a href="/assets/images/pexels-wolpido-1472999.jpg">
+    <img src="/assets/images/pexels-wolpido-1472999.jpg" alt="Mixing ingredients in a bowl">
+  </a>
+  <a href="/assets/images/pexels-wolpido-1472999.jpg">
+    <img src="/assets/images/pexels-wolpido-1472999.jpg" alt="Finished chocolate cake">
+  </a>
+  <figcaption>Mixing the flour, sugar, and cocoa powder, then the finished chocolate cake.</figcaption>
+</figure>
 
 ### Ingredients
 
-- 1 cup flour
-- 1/2 cup cocoa powder
-- 1 cup sugar
-- 2 eggs
-- 1/2 cup milk
+- 1 ¾ cups (220g) all-purpose flour  
+- 1 ½ cups (300g) granulated sugar  
+- ¾ cup (65g) unsweetened cocoa powder  
+- 1 ½ tsp baking powder  
+- 1 ½ tsp baking soda  
+- 1 tsp salt  
+- 2 large eggs  
+- 1 cup (240ml) whole milk  
+- ½ cup (120ml) vegetable oil  
+- 2 tsp vanilla extract  
+- 1 cup (240ml) boiling water  
 
 ### Instructions
 
-1. Preheat oven to 350°F (175°C).
-2. Mix the dry ingredients together.
-3. Add eggs and milk, stir until smooth.
-4. Pour into a greased baking pan.
-5. Bake for 25–30 minutes.
-6. Let cool before serving.
-
-Enjoy your homemade chocolate cake!
+1. Preheat oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.  
+2. Mix dry ingredients in a large bowl.  
+3. Add eggs, milk, oil, and vanilla. Beat on medium for 2 minutes.  
+4. Stir in boiling water until smooth. Batter will be thin.  
+5. Pour batter evenly into pans.  
+6. Bake 30–35 minutes, until toothpick comes out clean.  
+7. Cool in pans 10 minutes, then remove and cool completely on wire racks.
