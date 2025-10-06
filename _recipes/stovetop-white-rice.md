@@ -7,38 +7,38 @@ categories: recipes
 tags: [rice, white-rice, basic]
 ---
 
-Growing up in an Asian household and communities (Indonesia), rice cookers are must have things in every kitchen. Even when I went to study abroad in the US, one of the first thing I purchased was a rice cooker. It is very convenient, plug your machine, put your rice, put your water, and click cook.
+Growing up in an Asian household and community in Indonesia, rice cookers were a must-have in every kitchen. Even when I went to study abroad in the US, one of the first things I purchased was a rice cooker. They are very convenient: just plug in the machine, add rice, add water, and click cook.
 
-But then I noticed that majority of rice cookers use Teflon material which I avoid because they easily scratched and it can leech to our body. Therefore, I changed my rice cooking method to stove-top because all of my kitchen utensils are stainless steel. The ratio is 1 part of rice to approximately 1 part of water.
+However, I noticed that most rice cookers use Teflon, which I avoid because it scratches easily and can leach chemicals into our food. Therefore, I switched to stove-top cooking since all of my kitchen utensils are stainless steel. The ratio I use is 1 part rice to approximately 1 part water.
 
-Here is the guideline on making the perfect steamed white rice (Thai Hom Mali Jasmine Rice).
+Here is my guideline for making perfect steamed white rice (Thai Hom Mali Jasmine Rice).
 
 ### Tools
 
-- Heavy bottomed STAINLESS STEEL POT
+- Heavy-bottomed stainless steel pot
 - Measuring cup (½ Cup)
 
 ### Ingredients
 
-- 1 Part of Rice
-- ~1 Part of Water
+- 1 Part Rice
+- ~1 Part Water
 
 ### Instructions
 
-1. Put 1 cup of rice to the pot
-2. Wash and rinse the rice for 2 to 3 times and then drain.
-3. Put 1 cup of water to the pot (not fully 1 cup, just slightly less than 1 cup)
-4. Cover the pot and then put on the stovetop
-5. Turn on the burner to intensity of 3.5 / 10
-6. About 6 minutes in, there should be little bubbles in the middle of and around the rice. This is the indicator to turn the stoe to all the way down ( 1 / 10)
-7. Set a timer for 20 minutes. 
-8. Turn off the stove and let sit for 5 minutes.
+1. Add 1 cup of rice to the pot.
+2. Wash and rinse the rice 2 times, then drain.
+3. Add 1 cup of water to the pot (slightly less than a full cup).
+4. Cover the pot and place it on the stovetop.
+5. Turn on the burner to medium-low intensity (about 3.5 / 10).
+6. After about 6 minutes, small bubbles should appear in the middle and around the rice. This indicates it’s time to lower the heat to the lowest setting (1 / 10).
+7. Set a timer for 20 minutes.
+8. Turn off the stove and let the rice sit, covered, for 5 minutes.
 9. Enjoy.
 
 ### Troubleshooting
 
-- Step 3: The reason for slightly less water is that some water remains from rinsing the rice.  
-- Step 5: Stoves have different intensity settings. The heat should be about medium-low, similar to a fire just before medium heat.  
-- Step 6: Different pots and stoves cook differently. Around 6 minutes is usually the mark to check for little bubbles in the middle and around the rice.  
-- Steps 3 & 7: After cooking, if the rice is too soft, use slightly less water or cook a bit longer (21–22 minutes). If too hard, use slightly more water or reduce the cooking time (20 minutes or less).  
+- Step 3: Slightly less water is used because some water remains from rinsing the rice.
+- Step 5: Stoves vary in intensity. The heat should be about medium-low, similar to a fire just below medium heat.  
+- Step 6: Different pots and stoves cook differently. Around 6 minutes is usually the mark to check for small bubbles in the middle and around the rice.  
+- Steps 3 & 7: If the rice is too soft, use slightly less water or cook a bit longer (21–22 minutes). If too hard, use slightly more water or reduce cooking time (20 minutes or less).
 
