@@ -1,5 +1,5 @@
 ---
-title: "My First Journal"
+title: "Down Spiral Journal"
 layout: single
 date: 2025-10-06
 author_profile: true
