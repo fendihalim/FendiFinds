@@ -15,7 +15,7 @@ Here is my guideline for making perfect steamed white rice (Thai Hom Mali Jasmin
 
 ### Tools
 
-- Heavy-bottomed stainless steel pot
+- [Heavy-bottomed stainless steel pot](https://fendihalim.github.io/takemetoeat/kitchens/first-tool/) 
 - Measuring cup (½ Cup)
 
 ### Ingredients
