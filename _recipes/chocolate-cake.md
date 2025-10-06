@@ -9,14 +9,11 @@ tags: [dessert, chocolate, baking]
 
 This is my first recipe. Yum!
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/pexels-wolpido-1472999.jpg">
     <img src="{{ site.baseurl }}/assets/images/pexels-wolpido-1472999.jpg" alt="Mixing ingredients in a bowl">
   </a>
-  <a href="{{ site.baseurl }}/assets/images/pexels-wolpido-1472999.jpg">
-    <img src="{{ site.baseurl }}/assets/images/pexels-wolpido-1472999.jpg" alt="Finished chocolate cake">
-  </a>
-  <figcaption>Mixing the flour, sugar, and cocoa powder, then the finished chocolate cake.</figcaption>
+  <figcaption>Mixing the flour, sugar, and cocoa powder.</figcaption>
 </figure>
 
 ### Ingredients
