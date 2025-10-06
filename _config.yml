@@ -144,6 +144,9 @@ collections:
   journals:
     output: true
     permalink: /journals/:year/:month/:day/:title/
+  kitchens:
+    output: true
+    permalink: /kitchens/:title/
 
 category_archive:
   type: liquid
