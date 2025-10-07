@@ -19,7 +19,7 @@ title_separator: "-"
 masthead_title: "Take Me To Eat!" # This will override the website header (it's called masthead)
 name: "Fendi Tjoa"
 url: "https://fendihalim.github.io/" # not sure if needed to be writte. initially a blank
-baseurl: "/takemetoeat" # not sure if needed to be written. initially a blank
+baseurl: "/FendiFinds" # not sure if needed to be written. initially a blank
 words_per_minute: 200 # the speed set to read the article. this is connected to read_time under default below
 email: fenditakemetoeat@gmail.com
 description: "Easy recipes, honest coffee reviews, and budget-friendly cooking tips for home cooks and college students."
@@ -70,16 +70,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://fendihalim.github.io/takemetoeat/"
+      url: "https://fendihalim.github.io/FendiFinds/"
     # - label: "Reddit"
     #   icon: "fab fa-fw fa-square-reddit" 
-    #   url: "https://www.reddit.com/user/takemetoeat/"
+    #   url: "https://www.reddit.com/user/FendiFinds/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/fendihalim/takemetoeat"
+    #   url: "https://github.com/fendihalim/FendiFinds"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -92,10 +92,10 @@ footer:
     #   url: "https://twitter.com/"
     # - label: "Reddit"
     #   icon: "fab fa-fw fa-square-reddit" 
-    #   url: "https://www.reddit.com/user/takemetoeat/"
+    #   url: "https://www.reddit.com/user/FendiFinds/"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/fendihalim/takemetoeat"
+    #   url: "https://github.com/fendihalim/FendiFinds"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -124,7 +124,7 @@ defaults:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "takemetoeat"
+    shortname: "FendiFinds"
 
 atom_feed:
   hide: true
