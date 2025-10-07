@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
-title: Fendi, Take Me to Eat! # Title on the both website header (masthead) and the website tab"
+title: Fendi Finds Things! # Title on the both website header (masthead) and the website tab"
 title_separator: "-"
-masthead_title: "Take Me To Eat!" # This will override the website header (it's called masthead)
+masthead_title: "Fendi Finds Things!" # This will override the website header (it's called masthead)
 name: "Fendi Tjoa"
 url: "https://fendihalim.github.io/" # not sure if needed to be writte. initially a blank
 baseurl: "/FendiFinds" # not sure if needed to be written. initially a blank
